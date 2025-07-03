@@ -100,6 +100,12 @@ appropriately spent shipping costs based on the Order Priority? Explain your ans
 **Insight**: in some cases, the company did align shipping decisions with Order Priority, especially by using Express Air for High. But overall, the use of Express Air for Low and Medium priority suggests inconsistent cost control. There's likely room for optimization—reserving fast shipping only for top-priority orders
 
 
+
+
+
+# link to the Second project below 
+https://github.com/emmydynamics/Kultra-Mega-Stores-Inventory-EDA-with-SQL
+
      
 
 
