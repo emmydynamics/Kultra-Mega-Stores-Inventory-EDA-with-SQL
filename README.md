@@ -76,23 +76,23 @@ appropriately spent shipping costs based on the Order Priority? Explain your ans
 
     ![bottom](https://github.com/user-attachments/assets/e0e2ad27-502a-4dec-a083-9c4b8b432526)
 
-7. KMS incurred the most shipping cost using which shipping method: **Delivery Truck**
-8. Who are the most valuable customers, and what products or services do they typically 
+5. KMS incurred the most shipping cost using which shipping method: **Delivery Truck**
+6. Who are the most valuable customers, and what products or services do they typically 
 purchase:
 
  ![most](https://github.com/user-attachments/assets/53358472-8c12-494d-88c9-9ab55aa223c0)
 
-10. Which small business customer had the highest sales:
+7. Which small business customer had the highest sales:
 
  
  ![small](https://github.com/user-attachments/assets/0ba7f524-f7bf-40f0-b317-78780dbac76c)
 
 
-11. Which Corporate Customer placed the most number of orders in 2009 – 2012: Adam Shillingsburg with 50 order placement
-12. Which consumer customer was the most profitable one: Emily Phan with profit of 27220.69
-13. Which customer returned items, and what segment do they belong to [customer that retuned product.xlsx](https://github.com/user-attachments/files/21039544/customer.that.retuned.product.xlsx)
+8. Which Corporate Customer placed the most number of orders in 2009 – 2012: Adam Shillingsburg with 50 order placement
+9. Which consumer customer was the most profitable one: Emily Phan with profit of 27220.69
+10. Which customer returned items, and what segment do they belong to [customer that retuned product.xlsx](https://github.com/user-attachments/files/21039544/customer.that.retuned.product.xlsx)
 
-14. If the delivery truck is the most economical but the slowest shipping method and 
+11. If the delivery truck is the most economical but the slowest shipping method and 
 Express Air is the fastest but the most expensive one, do you think the company 
 appropriately spent shipping costs based on the Order Priority? Explain your answer
 
