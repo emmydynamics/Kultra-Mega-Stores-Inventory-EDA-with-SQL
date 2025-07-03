@@ -97,7 +97,7 @@ Express Air is the fastest but the most expensive one, do you think the company
 appropriately spent shipping costs based on the Order Priority? Explain your answer
 
 
-**Answer**: in some cases, the company did align shipping decisions with Order Priority, especially by using Express Air for High. But overall, the use of Express Air for Low and Medium priority suggests inconsistent cost control. There's likely room for optimization—reserving fast shipping only for top-priority orders
+**Insight**: in some cases, the company did align shipping decisions with Order Priority, especially by using Express Air for High. But overall, the use of Express Air for Low and Medium priority suggests inconsistent cost control. There's likely room for optimization—reserving fast shipping only for top-priority orders
 
 
      
