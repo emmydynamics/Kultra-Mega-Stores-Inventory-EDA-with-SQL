@@ -98,7 +98,18 @@ Express Air is the fastest but the most expensive one, do you think the company
 appropriately spent shipping costs based on the Order Priority? Explain your answer
 
 
-12. in some cases, the company did align shipping decisions with Order Priority, especially by using Express Air for High. But overall, the use of Express Air for Low and Medium priority suggests inconsistent cost control. There's likely room for optimization—reserving fast shipping only for top-priority orders
+12. in some cases, the company did align shipping decisions with Order Priority, especially by using Express Air for High. But overall, the use of Express Air for Low and Medium priority suggests inconsistent cost control. There's likely room for optimization reserving fast shipping only for top priority orders
+
+
+
+    ## Insight
+    - The Manager should create a system where they can celebrate customers on their birthdays and possibly review the product that was sold to the customers 
+    - When order size are more in quantity and urgent express air should be used while if they are not the shipment mode should be through Truck
+    - Discount should also be giving to Top 10 customers 
+    - More attention should be payed to the top 3 regions  West, Ontari, Prarie which is possible to bring more revenue to the company
+    - I discovered more sales are made from the top 5 following product_sub_category (Office Machines, Tables, Telephones and Communication, Chairs & Chairmats, Copiers and Fax)
+    - The company should not neglect other provinces with low sales rather more advert should be made to improve people awerness
+    - Product Quality: Product_Sub_category like (Office Supplies, Furniture, Technology) should be reviewed by the company because thay are most returned by the customers 
 
 
 
