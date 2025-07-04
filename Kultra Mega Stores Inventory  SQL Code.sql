@@ -31,7 +31,7 @@ ORDER BY Top3_Region ASC
 
 SELECT Region, SUM(Sales) AS TotalSales_in_Ontario
 FROM [dbo].[KMS Sql Case Study]
-WHERE Region = 'Ontario'
+WHERE Region = 'Ontario' and Product_Sub_Category =  'Appliances'
 GROUP BY Region 
 
 
