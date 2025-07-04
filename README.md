@@ -7,7 +7,7 @@ Kultra Mega Stores (KMS), headquartered in Lagos, specialises in office supplies
 furniture. Its customer base includes individual consumers, small businesses (retail), and 
 large corporate clients (wholesale) across Lagos, Nigeria. 
 i have been engaged as a Business Intelligence Analyst to support the Abuja division of 
-KMS. The Business Manager has shared an Excel file containing order data from 2009 to 
+KMS. The Business Manager has shared an Excel file containing order data from 2009 to
 2012 and has requested that you analyze the data and present your key insights and 
 findings. 
 
@@ -72,12 +72,12 @@ appropriately spent shipping costs based on the Order Priority? Explain your ans
 1. Which product category had the highest sales: Technology with 5984248.18199999
 2. What are the Top 3 and Bottom 3 regions in terms of sales:** West**	3597549.2755,**Ontario**	3063212.4795, **Prarie**	2837304.6015
    for the lowest** Nunavut**	116376.4835, **Northwest Territories**	800847.3295, **Yukon**	975867.370999999
-3.  What were the total sales of appliances in Ontario: 3063212.4795
+3.  What were the total sales of appliances in Ontario: 202346.84
 4.  Advise the management of KMS on what to do to increase the revenue from the bottom 10 customer: The company should make more discount for them and also celibrate the customer on their birthdays.
 
     ![bottom](https://github.com/user-attachments/assets/e0e2ad27-502a-4dec-a083-9c4b8b432526)
 
-5. KMS incurred the most shipping cost using which shipping method: **Delivery Truck**
+5. KMS incurred the most shipping cost using which shipping method: **Delivery Truck** with 51971.9399999998
 6. Who are the most valuable customers, and what products or services do they typically 
 purchase:
 
@@ -98,7 +98,7 @@ Express Air is the fastest but the most expensive one, do you think the company
 appropriately spent shipping costs based on the Order Priority? Explain your answer
 
 
-**Insight**: in some cases, the company did align shipping decisions with Order Priority, especially by using Express Air for High. But overall, the use of Express Air for Low and Medium priority suggests inconsistent cost control. There's likely room for optimization—reserving fast shipping only for top-priority orders
+12. in some cases, the company did align shipping decisions with Order Priority, especially by using Express Air for High. But overall, the use of Express Air for Low and Medium priority suggests inconsistent cost control. There's likely room for optimization—reserving fast shipping only for top-priority orders
 
 
 
